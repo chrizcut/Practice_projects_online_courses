@@ -1,0 +1,5 @@
+Site web qui génère des clefs: https://www.miniwebtool.com/django-secret-key-generator/ 
+
+J'ai dû réorganiser ce qui est écrit dans les fichiers fbapp/__init__.py et fbapp/models.py 
+pour que le code marche (la solution d'Openclassrooms avait un pb d'instance appelée plusieurs fois
+ou qqch dans le genre : https://github.com/oc-courses/concevez_un_site_avec_flask/tree/P1C3)
